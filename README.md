@@ -5,7 +5,7 @@ Based VOSK vosk [models](https://alphacephei.com/vosk/models)
 Sound from [freesound](https://freesound.org/people/balloonhead/sounds/362501/) and [youtube](https://www.youtube.com/watch?v=VI1bR9fj6cs)
 
 
-make sure you have *make*, *python* and *uzip*
+make sure you have *make*, [*python*](runtime.txt) and *uzip*
 or you can try on linux
 
 ```cmd
